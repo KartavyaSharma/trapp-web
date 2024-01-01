@@ -6,7 +6,6 @@ import Landing from "../components/Landing"
 const IndexPage: React.FC<PageProps> = () => {
   return (
     <div>
-      Hello
       <Landing />
     </div>
   )
